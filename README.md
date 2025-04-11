@@ -1,2 +1,1 @@
-🔭 I’m currently working on LearnHooks , VeeBix
-🌱 I’m currently learning ReactJS
+| Game Developer | Lua | Python | Web | JavaScript | Cyber Security | 3D Modeler`**
